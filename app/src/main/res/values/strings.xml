@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tour Guide - Goa</string>
+
+    <!-- Cities -->
+    <string name="city_title">Cities</string>
+    <string name="goa_velha">Goa Velha</string>
+    <string name="goa_velha_desc">Old city in west India, home to colonial-era Bom Jesus Basilica, St. Cajetan Church &amp; Se Cathedral.</string>
+    <string name="panaji">Panaji</string>
+    <string name="panji_desc">Capital of Goa, India, with colonial buildings, Miramar Beach &amp; Immaculate Conception Church.</string>
+    <string name="calangute">Calangute</string>
+    <string name="calangute_desc">Seaside town in the Indian state of Goa with Calangute &amp; Baga beaches, plus colonial Aguada Fort.</string>
+    <string name="candolim">Candolim</string>
+    <string name="candolim_desc">Coastal town in India known for Candolim Beach, colonial Aguada Fort &amp; the Church of St. Lawrence.</string>
+    <string name="anjuna">Anjuna</string>
+    <string name="anjuna_desc">Coastal village in Goa, India, known for Anjuna Beach, a weekly flea market &amp; St. Anthony’s Chapel.</string>
+    <string name="baga">Baga</string>
+    <string name="baga_desc">Western Indian town known for Saturday night’s Baga Beach Market, plus Baga &amp; Calangute beaches.</string>
+    <string name="margao">Margao</string>
+    <string name="margao_desc">Indian town in Goa with the Holy Spirit Church, Sat Burzam Ghor mansion &amp; Margao Municipal Garden.</string>
+
+    <!-- Beaches -->
+    <string name="beach_title">Beaches</string>
+    <string name="palolem">Palolem Beach</string>
+    <string name="palolem_desc">Beach in Goa, South India, known for its nightlife &amp; calm waters, plus monkeys on Canacona Island.</string>
+    <string name="dona_paula">Dona Paula Beach</string>
+    <string name="dona_paula_desc">Affluent area with water sports at quiet Dona Paula Beach &amp; a viewpoint overlooking the Arabian Sea.</string>
+    <string name="arambol">Arambol Beach</string>
+    <string name="arambol_desc">Buzzing, bohemian area known for Arambol Beach, yoga classes, laid-back eats &amp; live music bars.</string>
+    <string name="vagator">Vagator Beach</string>
+    <string name="vagator_desc">Buzzing district around Vagator Beach, with clifftop clubs &amp; sea-view dining at Vagator Cliff.</string>
+    <string name="mobor">Mobor Beach</string>
+    <string name="mobor_desc">Beaches, parasailing, and sports</string>
+
+    <!-- Churches -->
+    <string name="church_title">Churches</string>
+    <string name="basilica_of_bom_jesus">Basilica of Bom Jesus</string>
+    <string name="basilica_of_bom_jesus_desc">The Basilica of Bom Jesus is a Roman Catholic basilica located in Goa, India, and is part of the Churches and convents of Goa UNESCO World Heritage Site.</string>
+    <string name="se_cathedral">Se Cathedral</string>
+    <string name="se_cathedral_desc">The Sé Catedral de Santa Catarina, known as Se Cathedral, is the cathedral of the Latin Rite Roman Catholic Archdiocese of Goa and Daman and the seat of the Patriarch of the East Indies. It is located in Old Goa, India.</string>
+    <string name="our_lady_of_the_immaculate_conception">Our Lady of the Immaculate Conception</string>
+    <string name="our_lady_of_the_immaculate_conception_desc">The Our Lady of the Immaculate Conception Church is located in Panjim, Goa, India. The Church conducts mass every day in English, Konkani, and Portuguese. The colonial Portuguese Baroque style church was first built in 1541 as a chapel on a hillside overlooking the city of Panjim.</string>
+    <string name="our_lady_of_grace">Our Lady of Grace</string>
+    <string name="our_lady_of_grace_desc">The "Igreja de Graca" (Our Lady of Grace) which is completing the Golden Jubilee this year, was originally a chapel known as \'Capela de Batalhao\'.</string>
+    <string name="st_andrews">St. Andrew’s</string>
+    <string name="st_andrews_desc">Historic, white Catholic church complex with neo-Gothic flair, ample parking &amp; Sunday Mass.</string>
+
+    <!-- Forts -->
+    <string name="fort_title">Forts</string>
+    <string name="aguanda">Aguada Fort</string>
+    <string name="aguanda_desc">Fort Aguada is a well-preserved seventeenth-century Portuguese fort, along with a lighthouse, standing in Goa, India, on Sinquerim Beach, overlooking the Arabian Sea.</string>
+    <string name="chapora">Chapora Fort</string>
+    <string name="chapora_desc">Located in Bardez, Goa, Chapora Fort rises high above the Chapora River. The site was the location of a fort built by Muslim ruler Adil Shah called Shahpura, whose name the Portuguese altered to Chapora. The fort changed hands several times after Portuguese acquired Bardez.</string>
+    <string name="mormugao">Mormugao Fort</string>
+    <string name="mormugao_desc">The Mormugão fort was located on the southern tip of the mouth of the Zuari river in Mormugao in the state of Goa on the west coast of India.</string>
+    <string name="corjuem">Corjuem Fort</string>
+    <string name="corjuem_desc">Corjuem Fort is a fortress situated 4 kilometres from the village of Aldona on the river island of Corjuem, Goa. It was a military fortress for the defense of Portuguese India. It is smaller than the other forts in Goa, but it gives a good view of the surrounding river and land.</string>
+    <string name="sinquerim">Sinquerim Fort</string>
+    <string name="sinquerim_desc">Remains of an old coastal fortress popular for scenic views of the ocean &amp; sunsets.</string>
+
+</resources>
